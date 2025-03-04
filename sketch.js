@@ -21,9 +21,9 @@ function draw() {
   textSize(20);
   text("Instructions", 530, 40);
   textSize(15);
-  text("Press the mouse to make the snowman wave", 530, 80);
-  text("Press any key to show the text appear", 530, 120);
-  text("Move the mouse to make snow appear", 530, 160);
+  text("Press the mouse to make the snowman wave", 525, 80);
+  text("Press any key to show the text appear", 525, 120);
+  text("Move the mouse to make snow appear", 525, 160);
 
   
   //snowman body
