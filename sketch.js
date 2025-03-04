@@ -130,7 +130,7 @@ function mouseMoved(){
   fill('white');
  circle(circleY, 400, 25);
  circle(circleX, 200, 20);
- circleDiameter = random(10, 80);
+ circleDiameter = random(10, 50);
  circle(circleX, circleY, circleDiameter);
  
  circleX = random(0, 499);
